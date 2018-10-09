@@ -1,5 +1,5 @@
 h1 {
-  color: red;
+  color: hotpink;
   text-align: center;
 }
 
@@ -10,11 +10,19 @@ h3 {
 }
 
 p {
-  color: gold;
+  color: white;
+  margin: 55px;
 }
 
 body {
-  background-color: grey;
+  background-image: url(https://wallpapercave.com/wp/wp2334837.jpg);
   font-family: sans-serif;
   text-align: center;
+}
+
+img {
+  box-shadow: 10px 10px 60px white;
+}
+a {
+  color: hotpink;
 }
